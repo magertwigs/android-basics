@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stvrry</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_layout1">LayoutActivity1</string>
+    <string name="title_activity_layoutactivity">layoutactivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+</resources>
